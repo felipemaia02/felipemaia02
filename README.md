@@ -10,7 +10,7 @@ I enjoy creating great software and helping other people do the same.
 class Felipe():
   def __init__(self):
     self.name = "Felipe Maia"
-    self.acknowledgements = "Backend Software Engineer"
+    self.work_area = "Backend Software Engineer"
     self.skills = ["Python", "Docker", "TS", "JS", "LINUX", "ETC"]
     self.email = "felipeoliveiramaia3@gmail.com"
 ```
